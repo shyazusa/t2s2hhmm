@@ -1,3 +1,4 @@
+'use strict';
 window.addEventListener('load', function() {
   document.getElementById('hhmm').addEventListener('click', function() {
     const hhmm = document.getElementById('hhmm_form').value;
